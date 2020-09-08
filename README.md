@@ -10,5 +10,7 @@ ve en iyi skoru hesaplamasını istedim.
 
 Cross Validation ile de modelin ortalamasını ve standart sapmasını hesapladım.
 
+Kullandığım Kütüphaneler;
 
+Keras ve Scikit-learn
 

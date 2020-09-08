@@ -1,5 +1,5 @@
 # GridsearchCV-Crossvalidation
-Yapay sinir ağları oluşturarak eğittiğim model için GridsearchCV ve Cross Validation kullanarak modelin en iyi skorunu ve en iyi parametrelerini hesapladım
+Yapay sinir ağları oluşturarak eğittiğim model için GridsearchCV ve Cross Validation kullanarak modelin en iyi skorunu ve en iyi parametrelerini test ettim.
 
 kc_house.csv data setini kullanarak waterfront(deniz kenarı ev) sınıflandırması yaptım.Sınıflandırma yaparken sinir ağı oluşturdum.Sinir ağında model için kullanılacak en iyi parametreleri gridsearchcv kullanarak gördüm.
 GridsearchCV ile kullanmasını istediğim parametreler;
